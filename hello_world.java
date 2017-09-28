@@ -1,7 +1,7 @@
 public class hello_world{
 
-public static void main[]{
-system.out.println("Hello world  !");
-
-}
+public static void main()
+	{
+		System.out.println("Hello world  !");
+	}
 }
